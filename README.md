@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Def4yU
--           ___       __ _ _       _   _
--          |   \ ___ / _| | | _  _| | | |
--          | |) / -_)  _|_  _| || | |_| |
--          |___/\___|_|   |_| \_, |\___/
--                             |__/
-<!---
-Def4yU/Def4yU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/640px-Anonymous_emblem.svg.png"/>
+<h1 align="center">Def4yU</h1>
+<hr>
+<h6>- already here .</h6>
+<h6>- leave a trail by liking or commenting</h6> 
+<h6>- not to be empty • it makes me happy.</h6> 
+<h6>- writing... </h6>
